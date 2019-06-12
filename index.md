@@ -2,7 +2,7 @@
 
 Adele, Leonardo, Laura, Pier and Chiara, five Psychology students from University of Bologna (Campus of Cesena), Italy.
 This project is part of the bigger Erasmus+ project "Peacemakers", led by Koc University and other partner Universities. Its aim is to foster a more peaceful generation in Europe and in Turkey that approaches migrants with positive attitudes.
-If you want to find out more, check here: https://peacemakers.ku.edu.tr/
+If you want to find out more, check here: [https://peacemakers.ku.edu.tr/]
 
 ## The topic
 
@@ -14,5 +14,5 @@ In our town Cesena we organize intercultural dinners and events in public spaces
 
 ## Spread the word
 
-We want to encourage other cities to join us and all together improve integration of migrants in Europe. Migrants living here, students, locals, everyone - this website is open to your contributions. If you want to find out more or join us, don't hesitate to contact us: laura.bruhn@studio.unibo.it
+We want to encourage other cities to join us and all together improve integration of migrants in Europe. Migrants living here, students, locals, everyone - this website is open to your contributions. If you want to find out more or join us, don't hesitate to contact us: [laura.bruhn@studio.unibo.it]
 
